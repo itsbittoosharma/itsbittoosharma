@@ -1,6 +1,6 @@
 # *itsbittoosharma* <div align="center">
         
-![Profile views](https://gpvc.arturio.dev/18Sept2021)  
+![Profile views](https://gpvc.arturio.dev/18Sept2021)     [![GitHub followers](https://img.shields.io/github/followers/itsbittoosharma.svg?style=social&label=Follow)](https://github.com/itsbittoosharma?tab=followers)  
  </div>
 <h1 align="center"> Hello World 👋
 <p> I'm Utkarsh Upadhyay</p></h1>
@@ -46,11 +46,10 @@ Currently I am a GDSC Lead in my college campus at DEI, Agra, ex-Cyber Security 
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsbittoosharma)](https://github.com/ryo-ma/github-profile-trophy)
 </div> -->
- <div align="center">
-     
-     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=itsbittoosharma&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
+ 
+ [![itsbittoosharma's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itsbittoosharma&theme=xcode)](https://git.io/itsbittoosharma)
+
+
 <div class="image123">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight"  width="49%" style="float:left" height="30%" >  
      
