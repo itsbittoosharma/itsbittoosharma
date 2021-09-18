@@ -2,12 +2,12 @@
         
 ![Profile views](https://gpvc.arturio.dev/18Sept2021)     [![GitHub followers](https://img.shields.io/github/followers/itsbittoosharma.svg?style=social&label=Follow)](https://github.com/itsbittoosharma?tab=followers)  
  </div>
-<h1 align="center"> Hello World 👋
-<p> I'm Utkarsh Upadhyay</p></h1>
-<p align="center">
-    <a href="https://github.com/itsbittoosharma"><img width="100%" src="intro.gif "/></a>
+ <p align="center">
+    <a href="https://github.com/itsbittoosharma"><img width="50%" src="hello.png "/></a>
 </p>
-<h2 align="center"> 👨‍💻 My Intro?</h2>
+<h1 align="center"><p> I'm Utkarsh Upadhyay 👋</h1>
+
+<h2 align="center"> 👨‍💻 My Intro?<br><p size="20"><font size="20"></font></p></h2>
 <p align="center">
   Well, I am 3rd UG student pursuing my Bachelor's of Technology. 
 I am a Tech enthusiastic student with an interest in open source contribution, DSA addict, and a tech-savvy person.
@@ -51,8 +51,8 @@ Currently I am a GDSC Lead in my college campus at DEI, Agra, ex-Cyber Security 
 
 
 <div class="image123">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight"  width="49%" style="float:left" height="30%" >  
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight"  width="47%" style="float:left"  >  
      
-    <img align="right"  class="middle-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbittoosharma&layout=compact&theme=react&count_private=false"  width="49%" height="30%"> 
+    <img align="right"  class="middle-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbittoosharma&layout=compact&theme=react&count_private=false"  width="47%" > 
      
 
