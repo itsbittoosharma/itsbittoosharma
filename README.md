@@ -1,27 +1,36 @@
-# itsbittoosharma
- Repo for Profile Readme file 
-<h1 align="center"> Hi 👋, I'm Utkarsh Upadhyay</h1>
+# *itsbittoosharma* <div align="center">
+        
+![Profile views](https://gpvc.arturio.dev/18Sept2021)  
+ </div>
+<h1 align="center"> Hello World 👋
+<p> I'm Utkarsh Upadhyay</p></h1>
 <p align="center">
-    <a href="https://github.com/itsbittoosharma"><img src="forkit.gif "/></a> 
+    <a href="https://github.com/itsbittoosharma"><img width="100%" src="intro.gif "/></a>
 </p>
-<h2 align="center"> 👨‍💻 Who am I?</h2>
+<h2 align="center"> 👨‍💻 My Intro?</h2>
 <p align="center">
-  <samp>I am a Third year student at Smt Indira Gandhi clg of Engineering currently doing my Bachelors in Computer Engineering. 
-I am an open source Contributor and an web development addict.
-</samp><br>
+  Well, I am 3rd UG student pursuing my Bachelor's of Technology. 
+I am a Tech enthusiastic student with an interest in open source contribution, DSA addict, and a tech-savvy person.
+<br>
+Currently I am a GDSC Lead in my college campus at DEI, Agra, ex-Cyber Security Summer Intern at Gurugram Police, and Grand Finalist of Smart India Hackathon (SIH-2020).
 </p>
 
-
-<h2 align="center">Reach out to me on </h2>
 
 <div align="center">
+    
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=itsbittoosharma)  
+</div>
+    
+<h2 align="center">Reach out to me on </h2>
+
+<div align="center"> 
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsbittoosharma) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/utkarshup562/) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/itsbittoosharma/) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://pirogrammer1.blogspot.com)
-</div>
-<h2 align="center"> 🔭 Technology Stack</h2>
+<br><br><br> 
+<!-- </div>
+<h2 align="center">  Technology Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -36,29 +45,15 @@ I am an open source Contributor and an web development addict.
 <div align="center">
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsbittoosharma)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
-    
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight" />
-</div>
-    
+</div> -->
  <div align="center">
      
      
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=itsbittoosharma&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbittoosharma&layout=compact&theme=react&count_private=false" />
-</div>
+<div class="image123">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight"  width="49%" style="float:left" height="30%" >  
+     
+    <img align="right"  class="middle-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbittoosharma&layout=compact&theme=react&count_private=false"  width="49%" height="30%"> 
+     
 
-<div align="center">
-    
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=itsbittoosharma)  
-</div>
-    
-<div align="center">
-        
-![Profile views](https://gpvc.arturio.dev/itsbittoosharma)  
- </div>
