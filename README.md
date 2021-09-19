@@ -51,8 +51,8 @@ Currently I am a GDSC Lead in my college campus at DEI, Agra, ex-Cyber Security 
 
 
 <div class="image123">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight"  width="47%" style="float:left"  >  
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight"  style="float:left"  >  
      
-    <img align="right"  class="middle-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbittoosharma&layout=compact&theme=react&count_private=false"  width="47%" > 
+    <img align="right"  class="middle-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbittoosharma&layout=compact&theme=react&count_private=true&hide=hack,php"   > 
      
 
