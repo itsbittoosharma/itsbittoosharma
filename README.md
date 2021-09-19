@@ -50,9 +50,9 @@ Currently I am a GDSC Lead in my college campus at DEI, Agra, ex-Cyber Security 
  [![itsbittoosharma's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itsbittoosharma&theme=xcode)](https://git.io/itsbittoosharma)
 
 
-<div class="image123">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight"  style="float:left"  >  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsbittoosharma&count_private=true&show_icons=true&theme=tokyonight"   >  
      
-    <img align="right"  class="middle-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbittoosharma&layout=compact&theme=react&count_private=true&hide=hack,php"   > 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbittoosharma&layout=compact&theme=react&count_private=true&hide=hack,php" > 
      
 
